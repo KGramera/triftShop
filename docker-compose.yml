@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  trift-shop:
+    image: 'postgres:latest'
+    ports:
+      - '5432:5432'
+    container_name: db
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: triftshop

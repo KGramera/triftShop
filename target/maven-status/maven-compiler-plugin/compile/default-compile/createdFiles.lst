@@ -1,0 +1,10 @@
+com/example/triftshop/clothes/Clothes.class
+com/example/triftshop/TriftShopApplication.class
+com/example/triftshop/clothes/ClothesType.class
+com/example/triftshop/clothes/ClothesMapper.class
+com/example/triftshop/clothes/ClothesService.class
+com/example/triftshop/clothes/ClothesRepository.class
+com/example/triftshop/clothes/ClothesMapperImpl.class
+com/example/triftshop/clothes/ClothesController.class
+com/example/triftshop/clothes/ClothesResponse.class
+com/example/triftshop/clothes/ClothesRequest.class
